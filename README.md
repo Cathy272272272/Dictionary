@@ -9,6 +9,7 @@ The performace is below.
 Naive BST Dictionary:
 Time to import the whole dictionary (sec): 2.72051.
 Avg. time per find a word (us): 47.52343.
+
 Self Balancing BST Dictionary
 Time to import the whole dictionary (sec): 0.11404.
 Avg. time per find a word (us): 0.89738.
