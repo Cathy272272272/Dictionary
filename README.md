@@ -9,7 +9,7 @@ Time to import (sec):2.72051
 Avg. time per find (us): 47.52343
 
 Self Balancing BST Dictionary
-Time to import (sec): 0.11404
+Time to import (sec): 0.11404,
 Avg. time per find (us): 0.89738
  
 The difference between the two implementations is because the dictionary is in alphabetical order, so the Naive tree has much more levels, so the time is much more longer.
