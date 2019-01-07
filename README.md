@@ -7,6 +7,7 @@ To compare the performance of two implmentations, I use a alphabetized dictionar
 Naive BST Dictionary
 Time to import (sec):2.72051  
 Avg. time per find (us): 47.52343
+
 Self Balancing BST Dictionary
 Time to import (sec): 0.11404
 Avg. time per find (us): 0.89738
