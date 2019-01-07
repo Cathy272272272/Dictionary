@@ -6,7 +6,7 @@ Implementing dictionary in 2 ways.
 To compare the performace of two implementation methods, I use an alphabetized dictionary(alphabetized_dictionary.txt).
 The performace is below.
 
-Naive BST Dictionary:
+Naive BST Dictionary:\n
 Time to import the whole dictionary (sec): 2.72051.
 Avg. time per find a word (us): 47.52343.
 Self Balancing BST Dictionary
